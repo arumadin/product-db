@@ -18,6 +18,10 @@
         {
           "imgUrl": "https://m.media-amazon.com/images/I/818GEE8ygUL._AC_SX679_.jpg",
           "imgAlt": "varian 3"
+        },
+        {
+          "imgUrl": "/image/cereal-1.jpg",
+          "imgAlt": "varian 4"
         }
       ],
       "rating": {
