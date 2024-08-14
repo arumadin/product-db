@@ -35,6 +35,20 @@
         }
       ],
       "variant": {
+        "size": [
+          {
+            "option": "500gr",
+            "price": 15
+          },
+          {
+            "option": "750gr",
+            "price": 20
+          },
+          {
+            "option": "1000gr",
+            "price": 25
+          }
+        ],
         "flavor": [
           "Original",
           "Strawberry",
