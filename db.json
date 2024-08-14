@@ -54,7 +54,7 @@
         {
           "review": "This granola is amazing! Crunchy, nutty, and just the right amount of sweet. Love it!",
           "rating": 5
-        },
+        }
       ]
     },
     {
@@ -105,7 +105,7 @@
         {
           "review": "Best granola I've ever had. Perfect for breakfast or a snack.",
           "rating": 5
-        },
+        }
       ]
     },
     {
@@ -164,7 +164,7 @@
         {
           "review": "Best granola I've ever had. Perfect for breakfast or a snack.",
           "rating": 5
-        },
+        }
       ]
     },
     {
@@ -234,7 +234,7 @@
         {
           "review": "Best matcha I've tried. Not grassy at all.",
           "rating": 5
-        },
+        }
       ]
     }
   ]
