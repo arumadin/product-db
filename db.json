@@ -6,7 +6,7 @@
       "brand": "Purely Elizabeth",
       "price": 15,
       "discount": 10,
-      "product_description": "At Purely Elizabeth, we mix in ancient grains, oats and seeds along with chewy dried fruit, organic coconut oil and organic coconut sugar for a perfectly crunchy, salty-sweet taste. Our gluten free granola is then baked in small batches to create a purely wholesome, good-for-you treat. Perfect for breakfast with milk or yogurt (non dairy of course), crumbled on top of ice cream or fruit for a sweet dessert or as a healthy snack by itself. Our granola will keep you fueled throughout your busy day.",
+      "product_description": "At Purely Elizabeth, we mix in ancient grains, oats and seeds along with chewy dried fruit, organic coconut oil and organic coconut sugar for a perfectly crunchy, salty-sweet taste. ",
       "category": "granola",
       "photo_main": {
         "imgUrl": "https://m.media-amazon.com/images/I/51w29VZjVrL._SX300_SY300_QL70_FMwebp_.jpg",
@@ -60,14 +60,6 @@
         {
           "review": "As someone with a flaxseed allergy, I was thrilled to find a granola that doesn’t include any flaxseed. This Purely Elizabeth granola is a fantastic find! ",
           "rating": 5
-        },
-        {
-          "review": "Tastes okay, but a bit too sweet for my liking.",
-          "rating": 4
-        },
-        {
-          "review": "This granola is amazing! Crunchy, nutty, and just the right amount of sweet. Love it!",
-          "rating": 5
         }
       ]
     },
@@ -111,14 +103,6 @@
         {
           "review": "Tastes okay, but a bit too sweet for my liking.",
           "rating": 4
-        },
-        {
-          "review": "This granola is amazing! Crunchy, nutty, and just the right amount of sweet. Love it!",
-          "rating": 5
-        },
-        {
-          "review": "Best granola I've ever had. Perfect for breakfast or a snack.",
-          "rating": 5
         }
       ]
     },
@@ -146,18 +130,6 @@
         {
           "imgUrl": "https://m.media-amazon.com/images/I/81Z+D3JX+1L._SX679_.jpg",
           "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/61EcU5HYLbL._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/613SIJ4fB0L._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/81TN1Tu-XNL._SX679_.jpg",
-          "imgAlt": "image alt"
         }
       ],
       "variant": {},
@@ -166,56 +138,32 @@
         {
           "review": "This granola is a game-changer! The flavors are incredible.",
           "rating": 5
-        },
-        {
-          "review": "Tastes okay, but a bit too sweet for my liking.",
-          "rating": 4
-        },
-        {
-          "review": "This granola is amazing! Crunchy, nutty, and just the right amount of sweet. Love it!",
-          "rating": 5
-        },
-        {
-          "review": "Best granola I've ever had. Perfect for breakfast or a snack.",
-          "rating": 5
         }
       ]
     },
     {
       "id": 4,
-      "product_name": "Jade Leaf Matcha Organic Green Tea Powder - Culinary Grade Premium Second Harvest",
+      "product_name": "Jade Leaf Matcha Organic Green Tea Powder",
       "brand": "Jade Leaf Matcha",
       "price": 25,
       "discount": 5,
       "product_description": "MATCHA GREEN TEA FLAVOR: Discover edible zen with Amazin' Graze's Matcha Green Tea granola. It’s packed with naturally wholesome and delicious ingredients like rolled oats, cranberries, cashews, chia seeds, white melon seeds, chicory root and japanese matcha.",
       "category": "matcha powder",
       "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/51EyslkgsHL._SX679_.jpg",
+        "imgUrl": "https://m.media-amazon.com/images/I/41zcDXxR1qL._SX300_SY300_QL70_FMwebp_.jpg",
         "imgAlt": "image alt"
       },
       "gallery": [
         {
-          "imgUrl": "https://m.media-amazon.com/images/I/51EyslkgsHL._SX679_.jpg",
+          "imgUrl": "https://m.media-amazon.com/images/I/41zcDXxR1qL._SX300_SY300_QL70_FMwebp_.jpg",
           "imgAlt": "image alt"
         },
         {
-          "imgUrl": "https://m.media-amazon.com/images/I/91ImsU5Px0L._SX679_.jpg",
+          "imgUrl": "https://m.media-amazon.com/images/I/81hbRtGRvDL._SX679_.jpg",
           "imgAlt": "image alt"
         },
         {
-          "imgUrl": "https://m.media-amazon.com/images/I/81Z+D3JX+1L._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/61EcU5HYLbL._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/613SIJ4fB0L._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/81TN1Tu-XNL._SX679_.jpg",
+          "imgUrl": "https://m.media-amazon.com/images/I/81G9Sk7+5NL._SX679_.jpg",
           "imgAlt": "image alt"
         }
       ],
@@ -236,18 +184,6 @@
         {
           "review": "Amazing matcha! Perfect balance of sweetness and bitterness.",
           "rating": 5
-        },
-        {
-          "review": "Tastes okay, but a bit too sweet for my liking.",
-          "rating": 4
-        },
-        {
-          "review": "This matcha is pure bliss! Creamy, flavorful, and energizing.",
-          "rating": 5
-        },
-        {
-          "review": "Best matcha I've tried. Not grassy at all.",
-          "rating": 5
         }
       ]
     },
@@ -264,18 +200,6 @@
         "imgAlt": "Red Fuji apples"
       },
       "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/51KW9cR2htL._AC_SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/51v3yi1xsgL._AC_SX679_.jpg",
-          "imgAlt": "image alt"
-        },
         {
           "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
           "imgAlt": "image alt"
@@ -311,186 +235,11 @@
         {
           "review": "Amazing! Perfect balance of sweetness.",
           "rating": 5
-        },
-        {
-          "review": "Best apple I've tried.",
-          "rating": 5
         }
       ]
     },
     {
       "id": 6,
-      "product_name": "Organic Whole Milk",
-      "brand": "Meadow Gold",
-      "price": 3.50,
-      "discount": 0,
-      "product_description": "Rich and creamy, our Organic Whole Milk is sourced from grass-fed cows. Packed with essential nutrients, it's perfect for drinking, cooking, or baking.",
-      "category": "dairy",
-      "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/71XehXccDyL._SX679_PIbundle-27,TopRight,0,0_AA679SH20_.jpg",
-        "imgAlt": "Gallon of whole milk"
-      },
-      "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71XehXccDyL._SX679_PIbundle-27,TopRight,0,0_AA679SH20_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71mflGg5KcL._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71pZXmqU-9L._SX679_.jpg",
-          "imgAlt": "image alt"
-        }
-      ],
-      "variant": {
-        "size": [
-          {
-            "option": "1 L",
-            "price": 3.50
-          }
-        ],
-        "flavor": []
-      },
-      "number_of_sales": 200,
-      "reviews": [
-        {
-          "review": "The best whole milk I've ever tasted!",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "product_name": "Organic Hass Avocado",
-      "brand": "Earthbound Farm",
-      "price": 1.99,
-      "discount": 0,
-      "product_description": "Our Organic Hass Avocados are ripe and creamy, perfect for guacamole, toast, or salads.",
-      "category": "fruit",
-      "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/91sQzAxqzcL._SX679_.jpg",
-        "imgAlt": "Ripe Hass Avocado"
-      },
-      "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/91sQzAxqzcL._SX679_.jpg",
-          "imgAlt": "image alt"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71JtaV7RjcL._SX679_.jpg",
-          "imgAlt": "image alt"
-        }
-      ],
-      "variant": {
-        "size": [],
-        "flavor": []
-      },
-      "number_of_sales": 400,
-      "reviews": [
-        {
-          "review": "Always fresh and delicious!",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "product_name": "Nutella cookie",
-      "brand": "Nutella",
-      "price": 6.99,
-      "discount": 10,
-      "product_description": "NUTELLA BISCUITS: The only cookie with a creamy heart of Nutella hazelnut spread with cocoa—these Nutella Biscuits are made to share with those you love in a 20-count resealable bag. INDULGE IN DELICIOUSNESS: Nutella Biscuits are made from a delicious recipe: a golden-baked, crunchy biscuit specially crafted to hold a creamy heart with the unique taste of Nutella",
-      "category": "snack",
-      "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/81e+3GJCxtL._SX679_.jpg",
-        "imgAlt": "A plate of chocolate chip cookies"
-      },
-      "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/81e+3GJCxtL._SX679_.jpg",
-          "imgAlt": "A plate of chocolate chip cookies"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71yffr2qP1L._SX679_.jpg",
-          "imgAlt": "A plate of chocolate chip cookies"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/81+o7dNqVUL._SX679_.jpg",
-          "imgAlt": "A plate of chocolate chip cookies"
-        }
-      ],
-      "variant": {
-        "size": [
-          {
-            "option": "6 pcs",
-            "price": 4
-          },
-          {
-            "option": "12 pcs",
-            "price": 6.99
-          }
-        ],
-        "flavor": []
-      },
-      "number_of_sales": 500,
-      "reviews": [
-        {
-          "review": "Perfect with a glass of milk!",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "product_name": "Classic Apple Pie",
-      "brand": "Old Fashioned Bakery",
-      "price": 12.99,
-      "discount": 0,
-      "product_description": "A homemade apple pie with flaky crust and sweet apple filling. Perfect for sharing.",
-      "category": "snack",
-      "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/61lw-HW4dhL._SX300_SY300_QL70_FMwebp_.jpg",
-        "imgAlt": "A whole apple pie"
-      },
-      "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/61lw-HW4dhL._SX300_SY300_QL70_FMwebp_.jpg",
-          "imgAlt": "A whole apple pie"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71i2LWjYyDL._SX679_.jpg",
-          "imgAlt": "A whole apple pie"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/71TTmySERDL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-          "imgAlt": "A whole apple pie"
-        }
-      ],
-      "variant": {
-        "size": [
-          {
-            "option": "9 inch",
-            "price": 12.99
-          },
-          {
-            "option": "3 inch",
-            "price": 4.99
-          }
-        ],
-        "flavor": []
-      },
-      "number_of_sales": 350,
-      "reviews": [
-        {
-          "review": "Delicious and flaky crust!",
-          "rating": 4
-        }
-      ]
-    },
-    {
-      "id": 10,
       "product_name": "Pocky",
       "brand": "Glico",
       "price": 3.99,
@@ -533,7 +282,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 7,
       "product_name": "Matcha Mochi Ice Cream",
       "brand": "Bento",
       "price": 4.99,
