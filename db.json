@@ -250,6 +250,338 @@
           "rating": 5
         }
       ]
+    },
+    {
+      "id": 5,
+      "product_name": "Organic Fuji Apples",
+      "brand": "Local Farm",
+      "price": 2.99,
+      "discount": 0,
+      "product_description": "These crisp and juicy organic Fuji apples are a delicious and healthy snack. They are a good source of fiber and vitamin C.",
+      "category": "fruit",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
+        "imgAlt": "Red Fuji apples"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/51KW9cR2htL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/51v3yi1xsgL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/61AJ0dcJazL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/51KW9cR2htL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/51v3yi1xsgL._AC_SX679_.jpg",
+          "imgAlt": "image alt"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "250gr",
+            "price": 2.99
+          },
+          {
+            "option": "500gr",
+            "price": 5
+          },
+          {
+            "option": "1000gr",
+            "price": 10
+          }
+        ],
+        "flavor": []
+      },
+      "number_of_sales": 275,
+      "reviews": [
+        {
+          "review": "Amazing! Perfect balance of sweetness.",
+          "rating": 5
+        },
+        {
+          "review": "Best apple I've tried.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "product_name": "Organic Whole Milk",
+      "brand": "Meadow Gold",
+      "price": 3.50,
+      "discount": 0,
+      "product_description": "Rich and creamy, our Organic Whole Milk is sourced from grass-fed cows. Packed with essential nutrients, it's perfect for drinking, cooking, or baking.",
+      "category": "dairy",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/71XehXccDyL._SX679_PIbundle-27,TopRight,0,0_AA679SH20_.jpg",
+        "imgAlt": "Gallon of whole milk"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71XehXccDyL._SX679_PIbundle-27,TopRight,0,0_AA679SH20_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71mflGg5KcL._SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71pZXmqU-9L._SX679_.jpg",
+          "imgAlt": "image alt"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "1 L",
+            "price": 3.50
+          }
+        ],
+        "flavor": []
+      },
+      "number_of_sales": 200,
+      "reviews": [
+        {
+          "review": "The best whole milk I've ever tasted!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "product_name": "Organic Hass Avocado",
+      "brand": "Earthbound Farm",
+      "price": 1.99,
+      "discount": 0,
+      "product_description": "Our Organic Hass Avocados are ripe and creamy, perfect for guacamole, toast, or salads.",
+      "category": "fruit",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/91sQzAxqzcL._SX679_.jpg",
+        "imgAlt": "Ripe Hass Avocado"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/91sQzAxqzcL._SX679_.jpg",
+          "imgAlt": "image alt"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71JtaV7RjcL._SX679_.jpg",
+          "imgAlt": "image alt"
+        }
+      ],
+      "variant": {
+        "size": [],
+        "flavor": []
+      },
+      "number_of_sales": 400,
+      "reviews": [
+        {
+          "review": "Always fresh and delicious!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "product_name": "Nutella cookie",
+      "brand": "Nutella",
+      "price": 6.99,
+      "discount": 10,
+      "product_description": "NUTELLA BISCUITS: The only cookie with a creamy heart of Nutella hazelnut spread with cocoa—these Nutella Biscuits are made to share with those you love in a 20-count resealable bag. INDULGE IN DELICIOUSNESS: Nutella Biscuits are made from a delicious recipe: a golden-baked, crunchy biscuit specially crafted to hold a creamy heart with the unique taste of Nutella",
+      "category": "snack",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/81e+3GJCxtL._SX679_.jpg",
+        "imgAlt": "A plate of chocolate chip cookies"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/81e+3GJCxtL._SX679_.jpg",
+          "imgAlt": "A plate of chocolate chip cookies"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71yffr2qP1L._SX679_.jpg",
+          "imgAlt": "A plate of chocolate chip cookies"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/81+o7dNqVUL._SX679_.jpg",
+          "imgAlt": "A plate of chocolate chip cookies"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "6 pcs",
+            "price": 4
+          },
+          {
+            "option": "12 pcs",
+            "price": 6.99
+          }
+        ],
+        "flavor": []
+      },
+      "number_of_sales": 500,
+      "reviews": [
+        {
+          "review": "Perfect with a glass of milk!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "product_name": "Classic Apple Pie",
+      "brand": "Old Fashioned Bakery",
+      "price": 12.99,
+      "discount": 0,
+      "product_description": "A homemade apple pie with flaky crust and sweet apple filling. Perfect for sharing.",
+      "category": "snack",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/61lw-HW4dhL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imgAlt": "A whole apple pie"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/61lw-HW4dhL._SX300_SY300_QL70_FMwebp_.jpg",
+          "imgAlt": "A whole apple pie"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71i2LWjYyDL._SX679_.jpg",
+          "imgAlt": "A whole apple pie"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/71TTmySERDL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "imgAlt": "A whole apple pie"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "9 inch",
+            "price": 12.99
+          },
+          {
+            "option": "3 inch",
+            "price": 4.99
+          }
+        ],
+        "flavor": []
+      },
+      "number_of_sales": 350,
+      "reviews": [
+        {
+          "review": "Delicious and flaky crust!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "product_name": "Pocky",
+      "brand": "Glico",
+      "price": 3.99,
+      "discount": 0,
+      "product_description": "A popular Japanese snack of biscuit sticks coated in chocolate.",
+      "category": "snack",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/61PafBg+CRL._SX300_SY300_.jpg",
+        "imgAlt": "A box of Pocky sticks"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/61PafBg+CRL._SX300_SY300_.jpg",
+          "imgAlt": "A box of Pocky sticks"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/61PafBg+CRL._SX300_SY300_.jpg",
+          "imgAlt": "A box of Pocky sticks"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "Box",
+            "price": 3.99
+          }
+        ],
+        "flavor": [
+          "Chocolate",
+          "Strawberry",
+          "Green Tea"
+        ]
+      },
+      "number_of_sales": 800,
+      "reviews": [
+        {
+          "review": "Classic and delicious!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "product_name": "Matcha Mochi Ice Cream",
+      "brand": "Bento",
+      "price": 4.99,
+      "discount": 0,
+      "product_description": "Chewy mochi filled with creamy matcha ice cream.",
+      "category": "snack",
+      "photo_main": {
+        "imgUrl": "https://m.media-amazon.com/images/I/41MQAwptl4L._SX300_SY300_QL70_FMwebp_.jpg",
+        "imgAlt": "A pack of matcha mochi ice cream"
+      },
+      "gallery": [
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/41MQAwptl4L._SX300_SY300_QL70_FMwebp_.jpg",
+          "imgAlt": "A pack of matcha mochi ice cream"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/91a76zkNojL._SX679_.jpg",
+          "imgAlt": "A pack of matcha mochi ice cream"
+        },
+        {
+          "imgUrl": "https://m.media-amazon.com/images/I/41SpX-j73PL._SX300_SY300_QL70_FMwebp_.jpg",
+          "imgAlt": "A pack of matcha mochi ice cream"
+        }
+      ],
+      "variant": {
+        "size": [
+          {
+            "option": "6 pcs",
+            "price": 4.99
+          },
+          {
+            "option": "12 pcs",
+            "price": 8
+          }
+        ],
+        "flavor": [
+          "Matcha",
+          "Red Bean",
+          "Strawberry"
+        ]
+      },
+      "number_of_sales": 600,
+      "reviews": [
+        {
+          "review": "Perfect balance of sweet and chewy!",
+          "rating": 5
+        }
+      ]
     }
   ]
 }
