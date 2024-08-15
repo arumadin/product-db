@@ -280,57 +280,6 @@
           "rating": 5
         }
       ]
-    },
-    {
-      "id": 7,
-      "product_name": "Matcha Mochi Ice Cream",
-      "brand": "Bento",
-      "price": 4.99,
-      "discount": 0,
-      "product_description": "Chewy mochi filled with creamy matcha ice cream.",
-      "category": "snack",
-      "photo_main": {
-        "imgUrl": "https://m.media-amazon.com/images/I/41MQAwptl4L._SX300_SY300_QL70_FMwebp_.jpg",
-        "imgAlt": "A pack of matcha mochi ice cream"
-      },
-      "gallery": [
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/41MQAwptl4L._SX300_SY300_QL70_FMwebp_.jpg",
-          "imgAlt": "A pack of matcha mochi ice cream"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/91a76zkNojL._SX679_.jpg",
-          "imgAlt": "A pack of matcha mochi ice cream"
-        },
-        {
-          "imgUrl": "https://m.media-amazon.com/images/I/41SpX-j73PL._SX300_SY300_QL70_FMwebp_.jpg",
-          "imgAlt": "A pack of matcha mochi ice cream"
-        }
-      ],
-      "variant": {
-        "size": [
-          {
-            "option": "6 pcs",
-            "price": 4.99
-          },
-          {
-            "option": "12 pcs",
-            "price": 8
-          }
-        ],
-        "flavor": [
-          "Matcha",
-          "Red Bean",
-          "Strawberry"
-        ]
-      },
-      "number_of_sales": 600,
-      "reviews": [
-        {
-          "review": "Perfect balance of sweet and chewy!",
-          "rating": 5
-        }
-      ]
     }
   ]
 }
